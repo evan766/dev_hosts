@@ -1,9 +1,5 @@
 127.0.0.1  default.test
 127.0.0.1  lvadmin.test
-127.0.0.1  crmapp.test
-127.0.0.1  salesman.crm.test
-127.0.0.1  director.crm.test
-127.0.0.1  manager.crm.test
 127.0.0.1  ins.product.test
 127.0.0.1  message.test
 127.0.0.1  image.test
