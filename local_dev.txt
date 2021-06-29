@@ -47,3 +47,4 @@
 81.71.93.8 jenkins-dev.test
 127.0.0.1 client.cfyf.test
 127.0.0.1 aike.test
+10.0.0.1 qinglong.test
